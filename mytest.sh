@@ -3,3 +3,4 @@ date
 cal
 echo "Bye"
 echo "don't Say byee"
+echo "Trying github hooks trigger"
