@@ -1,4 +1,4 @@
 echo "This is test Data"
 date
 cal
-echo "POLL SCM DEMO"
+echo " This is a Demo GitHub hook GITScm Polling" 
